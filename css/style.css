@@ -44,3 +44,29 @@ header {
 #submit:hover {
   background-color: orange;
 }
+.container{
+  display: flex;
+  justify-content: center;
+}
+.middle-page{
+  display: flex;
+  /* align-items: center; */
+  flex-direction: column;
+  
+}
+.features{
+  display: flex;
+  column-gap: 50px;
+  /* margin: auto; */
+  
+}
+.icon{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+    color: darkorange;
+}
+.topic{
+
+}
